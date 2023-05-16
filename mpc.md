@@ -2,6 +2,10 @@
 
 keywords: MPC wallet, mpc signatures, distributed key generation threshold signatures
 
+## Awesome lists
+
+https://github.com/ZenGo-X/awesome-tss
+
 ## Core libraries
 
 https://github.com/ZenGo-X/multi-party-ecdsa
